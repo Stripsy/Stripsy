@@ -13,7 +13,6 @@ Je suis un passionné par la création de technologies innovantes et la résolut
 ### Langages de programmation
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -22,9 +21,28 @@ Je suis un passionné par la création de technologies innovantes et la résolut
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+
+### Technologies Web
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Bases de données
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Outils de gestion d'hébergement Web
+![Plesk](https://img.shields.io/badge/-Plesk-52BBE6?style=for-the-badge&logo=plesk&logoColor=white)
+![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
+
+### Outils de collaboration et gestion de version
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ### CMS
 ![Joomla](https://img.shields.io/badge/-Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white)
@@ -32,18 +50,6 @@ Je suis un passionné par la création de technologies innovantes et la résolut
 
 ### Moteurs de jeu
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-
-### Technologies Web
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### Outils de gestion d'hébergement Web
-![Plesk](https://img.shields.io/badge/-Plesk-52BBE6?style=for-the-badge&logo=plesk&logoColor=white)
-![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
-
-### Bases de données
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Outils de conception et de marketing
 ![Adobe](https://img.shields.io/badge/-Adobe%20Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
